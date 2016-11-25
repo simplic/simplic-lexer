@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simplic.Lexer", "Simplic.Lexer\Simplic.Lexer.csproj", "{6730BE32-17E4-48EB-9249-F25857E70912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_x86x_64|Any CPU = Debug_x86x_64|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6730BE32-17E4-48EB-9249-F25857E70912}.Debug_x86x_64|Any CPU.ActiveCfg = Debug_x86x_64|Any CPU
+		{6730BE32-17E4-48EB-9249-F25857E70912}.Debug_x86x_64|Any CPU.Build.0 = Debug_x86x_64|Any CPU
+		{6730BE32-17E4-48EB-9249-F25857E70912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6730BE32-17E4-48EB-9249-F25857E70912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6730BE32-17E4-48EB-9249-F25857E70912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6730BE32-17E4-48EB-9249-F25857E70912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
