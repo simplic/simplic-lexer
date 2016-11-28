@@ -50,7 +50,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Simplic.CoreLib, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Simplic.CoreLib.6.0.0.0\lib\net451\Simplic.CoreLib.dll</HintPath>
+      <HintPath>..\packages\Simplic.CoreLib.6.0.0\lib\net451\Simplic.CoreLib.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
